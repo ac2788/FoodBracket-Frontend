@@ -1,34 +1,29 @@
+import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
 import Login from './Login';
 import Register from './Register';
+import Home from './Home';  // move your current home content here
 import React from 'react';
 import './App.css';
 
-function APP() {
+function App() {
     return (
-        <div className="App">
+        <BrowserRouter>
             <header className="App-header">
-                <h1>FoodBracket - The Ultimate Food Tournament App</h1>
+                <h1>FoodBracket</h1>
                 <nav>
-                    <button>Trending Brackets</button>
-                    <button>My Brackets</button>
+                    <Link to="/">Home</Link>
+                    <Link to="/login">Login</Link>
+                    <Link to="/register">Register</Link>
                 </nav>
             </header>
-            
-            <main>
-                <h3>Featured Matchups</h3>
-                <div className="bracket-card">
-                    <p>Pizza vs. Tacos</p>
-                    <button>Vote Now</button>
-                </div>
 
-                {/* Adding these so your imports are actually used */}
-                <div className="auth-section">
-                    <Login />
-                    <Register />
-                </div>
-            </main>
-        </div>
+            <Routes>
+                <Route path="/" element={<Home />} />
+                <Route path="/login" element={<Login />} />
+                <Route path="/register" element={<Register />} />
+            </Routes>
+        </BrowserRouter>
     );
 }
 
-export default APP;
+export default App;
