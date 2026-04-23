@@ -1,8 +1,24 @@
-﻿import React from 'react';
+import React from 'react';
 import { useNavigate } from 'react-router-dom';
 
 function Home() {
     const navigate = useNavigate();
+    const token = localStorage.getItem('token');
+
+    const handleLogout = () => {
+        localStorage.removeItem('token');
+        navigate('/login');
+    };
+
+    if (token) {
+        return (
+            <div className="home-container">
+                <h2>Welcome back! 🍔</h2>
+                <p>You are logged in. The bracket is coming soon!</p>
+                <button onClick={handleLogout}>Logout</button>
+            </div>
+        );
+    }
 
     return (
         <div className="home-container">
