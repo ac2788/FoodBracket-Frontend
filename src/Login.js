@@ -15,7 +15,7 @@ function Login() {
         try {
             const res = await axios.post(`${BACKEND}/api/login`, { username, password });
             localStorage.setItem('token', res.data.token);
-            navigate('/home');
+            navigate('/');
         } catch (err) {
             setError('Invalid username or password');
         }
