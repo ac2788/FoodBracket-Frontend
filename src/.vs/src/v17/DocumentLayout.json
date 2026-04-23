@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahaba\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\99cfcf80-5595-4ed0-9daf-b2727bd14e32\\FoodBracket-Frontend-main\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahaba\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\99cfcf80-5595-4ed0-9daf-b2727bd14e32\\FoodBracket-Frontend-main\\src\\Register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahaba\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\99cfcf80-5595-4ed0-9daf-b2727bd14e32\\FoodBracket-Frontend-main\\src\\Login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahaba\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\99cfcf80-5595-4ed0-9daf-b2727bd14e32\\FoodBracket-Frontend-main\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahaba\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\99cfcf80-5595-4ed0-9daf-b2727bd14e32\\FoodBracket-Frontend-main\\src\\Home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahaba\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\99cfcf80-5595-4ed0-9daf-b2727bd14e32\\FoodBracket-Frontend-main\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\ahaba\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\99cfcf80-5595-4ed0-9daf-b2727bd14e32\\FoodBracket-Frontend-main\\src\\App.css",
+              "RelativeDocumentMoniker": "App.css",
+              "ToolTip": "C:\\Users\\ahaba\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\99cfcf80-5595-4ed0-9daf-b2727bd14e32\\FoodBracket-Frontend-main\\src\\App.css",
+              "RelativeToolTip": "App.css",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-23T03:22:44.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.js",
+              "DocumentMoniker": "C:\\Users\\ahaba\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\99cfcf80-5595-4ed0-9daf-b2727bd14e32\\FoodBracket-Frontend-main\\src\\Home.js",
+              "RelativeDocumentMoniker": "Home.js",
+              "ToolTip": "C:\\Users\\ahaba\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\99cfcf80-5595-4ed0-9daf-b2727bd14e32\\FoodBracket-Frontend-main\\src\\Home.js",
+              "RelativeToolTip": "Home.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-23T03:22:22.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.js",
+              "DocumentMoniker": "C:\\Users\\ahaba\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\99cfcf80-5595-4ed0-9daf-b2727bd14e32\\FoodBracket-Frontend-main\\src\\Register.js",
+              "RelativeDocumentMoniker": "Register.js",
+              "ToolTip": "C:\\Users\\ahaba\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\99cfcf80-5595-4ed0-9daf-b2727bd14e32\\FoodBracket-Frontend-main\\src\\Register.js",
+              "RelativeToolTip": "Register.js",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwCkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-23T03:20:32.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.js",
+              "DocumentMoniker": "C:\\Users\\ahaba\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\99cfcf80-5595-4ed0-9daf-b2727bd14e32\\FoodBracket-Frontend-main\\src\\Login.js",
+              "RelativeDocumentMoniker": "Login.js",
+              "ToolTip": "C:\\Users\\ahaba\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\99cfcf80-5595-4ed0-9daf-b2727bd14e32\\FoodBracket-Frontend-main\\src\\Login.js",
+              "RelativeToolTip": "Login.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowCcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-23T03:20:06.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\ahaba\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\99cfcf80-5595-4ed0-9daf-b2727bd14e32\\FoodBracket-Frontend-main\\src\\App.js",
+              "RelativeDocumentMoniker": "App.js",
+              "ToolTip": "C:\\Users\\ahaba\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\99cfcf80-5595-4ed0-9daf-b2727bd14e32\\FoodBracket-Frontend-main\\src\\App.js",
+              "RelativeToolTip": "App.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-23T03:18:47.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
