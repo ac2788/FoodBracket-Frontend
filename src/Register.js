@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
 
-const BACKEND = 'http://192.168.10.2:5000';
+const BACKEND = '';
 function Register() {
     const [username, setUsername] = useState('');
     const [email, setEmail] = useState('');
