@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { useState } from 'react';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
@@ -31,6 +32,18 @@ function Register() {
                     onChange={e => setEmail(e.target.value)} required />
                 <input type="password" placeholder="Password" value={password}
                     onChange={e => setPassword(e.target.value)} required />
+=======
+import React from 'react';
+
+function Register() {
+    return (
+        <div className="register-container">
+            <h2>Register</h2>
+            <form>
+                <input type="text" placeholder="Username" required />
+                <input type="email" placeholder="Email" required />
+                <input type="password" placeholder="Password" required />
+>>>>>>> 6bf0ca9673aa981bb6a36e6a2c36ce7af4581a92
                 <button type="submit">Register</button>
             </form>
             <p>Already have an account? <a href="/login">Login here</a></p>

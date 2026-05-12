@@ -36,6 +36,7 @@
     transform: rotate(360deg);
   }
 }
+<<<<<<< HEAD
 
 .home-container {
     text-align: center;
@@ -62,3 +63,5 @@
         .home-buttons button:hover {
             background-color: #e55a28;
         }
+=======
+>>>>>>> 6bf0ca9673aa981bb6a36e6a2c36ce7af4581a92
