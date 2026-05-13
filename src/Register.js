@@ -1,20 +1,21 @@
-<<<<<<< HEAD
 import React, { useState } from 'react';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
 
-const BACKEND = 'http://192.168.10.2:5000';
+const BACKEND = '';
+
 function Register() {
     const [username, setUsername] = useState('');
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
+    const [role, setRole] = useState('spectator');
     const [error, setError] = useState('');
     const navigate = useNavigate();
 
     const handleSubmit = async (e) => {
         e.preventDefault();
         try {
-            await axios.post(`${BACKEND}/api/register`, { username, email, password });
+            await axios.post(`${BACKEND}/api/register`, { username, email, password, role });
             navigate('/login');
         } catch (err) {
             setError('Registration failed. Try a different username or email.');
@@ -32,18 +33,10 @@ function Register() {
                     onChange={e => setEmail(e.target.value)} required />
                 <input type="password" placeholder="Password" value={password}
                     onChange={e => setPassword(e.target.value)} required />
-=======
-import React from 'react';
-
-function Register() {
-    return (
-        <div className="register-container">
-            <h2>Register</h2>
-            <form>
-                <input type="text" placeholder="Username" required />
-                <input type="email" placeholder="Email" required />
-                <input type="password" placeholder="Password" required />
->>>>>>> 6bf0ca9673aa981bb6a36e6a2c36ce7af4581a92
+                <select value={role} onChange={e => setRole(e.target.value)}>
+                    <option value="spectator">Spectator</option>
+                    <option value="fighter">Fighter</option>
+                </select>
                 <button type="submit">Register</button>
             </form>
             <p>Already have an account? <a href="/login">Login here</a></p>
